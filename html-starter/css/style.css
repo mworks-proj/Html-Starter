@@ -112,7 +112,7 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem; 
-color: #4f5050}
+color: #8c8a8a}
 
 abbr[title],
 abbr[data-bs-original-title] {
@@ -2899,7 +2899,7 @@ textarea.form-control-lg {
   color: #05a8eb;
   text-decoration: underline; }
   .btn-link:hover {
-    color: #476d56; }
+    color: #bc02cd; }
   .btn-link:disabled, .btn-link.disabled {
     color: #6c757d; }
 
@@ -5206,7 +5206,7 @@ textarea.form-control-lg {
   filter: invert(1) grayscale(100); }
 
 .carousel-dark .carousel-indicators li {
-  background-color: #000; }
+  background-color: red; }
 
 .carousel-dark .carousel-caption {
   color: #000; }
@@ -9079,6 +9079,7 @@ a, .btn {
   transition: .3s all ease;
   text-decoration: none; }
 
+  /*/////////////HERE\\\\\\\\\\\\\\\\\\*/
 .btn {
   padding: 13px 30px;
   border-radius: 30px;
@@ -9097,7 +9098,7 @@ a, .btn {
     color: #fff;
     background-color: #05a8eb; }
     .btn.btn-primary:hover {
-      background-color: #4f795f; }
+      background-color: #bc02cd; }
   .btn.btn-outline-white {
     border-color: #fff;
     color: #fff; }
@@ -9774,7 +9775,7 @@ blockquote {
   .flip-section:before {
     position: absolute;
     content: "";
-    background: rgba(163,21,216,0.8);
+    background: #bc02cd;
     top: 0px;
     left: 0;
     right: 0;
@@ -9784,7 +9785,7 @@ blockquote {
     position: relative;
     z-index: 2; }
   .flip-section.secondary-bg:before {
-    background: rgba(163,21,216,0.9); }
+    background: #bc02cd; }
 
 .field-icon {
   position: relative; }
