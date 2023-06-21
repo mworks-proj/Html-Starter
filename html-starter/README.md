@@ -11,9 +11,10 @@ git clone https://github.com/GemWallet/project-starter.git
 
 To serve the index.html in your browser, you can do the following steps:
 
-0. Make sure that you are in this directory
+0. `cd html-starter`
 1. `npm install`
-2. `npm start`
+2.  if any updates are available run  `sudo npm install -g npm`
+3. `npm start`
 
 
 ## Usage
